@@ -1,0 +1,83 @@
+E:\KUNAL\SKFGI\Entity\bin\Debug\Entity.dll
+E:\KUNAL\SKFGI\Entity\bin\Debug\Entity.pdb
+E:\KUNAL\SKFGI\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\KUNAL\SKFGI\Entity\obj\Debug\Entity.dll
+E:\KUNAL\SKFGI\Entity\obj\Debug\Entity.pdb
+C:\Users\hi\Desktop\SKFGI\Entity\bin\Debug\Entity.dll
+C:\Users\hi\Desktop\SKFGI\Entity\bin\Debug\Entity.pdb
+C:\Users\hi\Desktop\SKFGI\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hi\Desktop\SKFGI\Entity\obj\Debug\Entity.dll
+C:\Users\hi\Desktop\SKFGI\Entity\obj\Debug\Entity.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\Entity\bin\Debug\Entity.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\Entity\bin\Debug\Entity.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\KUNAL\SKFJISuvojitNew\SKFGI\Entity\obj\Debug\Entity.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\Entity\obj\Debug\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\Entity\bin\Debug\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\Entity\bin\Debug\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\Entity\obj\Debug\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\Entity\obj\Debug\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\Entity\bin\Debug\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\Entity\bin\Debug\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\Entity\obj\Debug\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\Entity\obj\Debug\Entity.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\Entity\bin\Debug\Entity.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\Entity\bin\Debug\Entity.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\Entity\obj\Debug\Entity.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\Entity\obj\Debug\Entity.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Basir Projects World\SKFGI\SKFGI\Entity\bin\Debug\Entity.dll
+D:\Basir Projects World\SKFGI\SKFGI\Entity\bin\Debug\Entity.pdb
+D:\Basir Projects World\SKFGI\SKFGI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\Basir Projects World\SKFGI\SKFGI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Basir Projects World\SKFGI\SKFGI\Entity\obj\Debug\Entity.dll
+D:\Basir Projects World\SKFGI\SKFGI\Entity\obj\Debug\Entity.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\bin\Debug\Entity.dll
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\bin\Debug\Entity.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Debug\Entity.dll
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Debug\Entity.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\bin\Debug\Entity.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\bin\Debug\Entity.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Debug\Entity.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Debug\Entity.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\Entity\bin\Debug\Entity.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\Entity\bin\Debug\Entity.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\bin\Debug\Entity.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\bin\Debug\Entity.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\bin\Debug\Entity.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\bin\Debug\Entity.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\Entity\obj\Debug\Entity.pdb
+E:\GIT Solutions\SKFGI\SKFGI\Entity\bin\Debug\Entity.dll
+E:\GIT Solutions\SKFGI\SKFGI\Entity\bin\Debug\Entity.pdb
+E:\GIT Solutions\SKFGI\SKFGI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\GIT Solutions\SKFGI\SKFGI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\GIT Solutions\SKFGI\SKFGI\Entity\obj\Debug\Entity.dll
+E:\GIT Solutions\SKFGI\SKFGI\Entity\obj\Debug\Entity.pdb
+E:\LALTU\SKFGI\Entity\bin\Debug\Entity.dll
+E:\LALTU\SKFGI\Entity\bin\Debug\Entity.pdb
+E:\LALTU\SKFGI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+E:\LALTU\SKFGI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\LALTU\SKFGI\Entity\obj\Debug\Entity.dll
+E:\LALTU\SKFGI\Entity\obj\Debug\Entity.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\Entity\bin\Debug\Entity.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\Entity\bin\Debug\Entity.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\Entity\obj\Debug\Entity.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\Entity\obj\Debug\Entity.pdb

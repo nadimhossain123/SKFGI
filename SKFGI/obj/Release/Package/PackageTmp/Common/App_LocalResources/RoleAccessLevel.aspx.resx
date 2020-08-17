@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ChkLstAccountsResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ChkLstActionResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ChkLstHRResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ChkLstITaxResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ChkLstPayrollResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ChkLstPOResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ChkLstSettingsResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ChkLstStudentResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ddlRoleResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="ListItemResource1.Text" xml:space="preserve">
+    <value>SETTINGS</value>
+  </data>
+  <data name="ListItemResource1.Value" xml:space="preserve">
+    <value>100</value>
+  </data>
+  <data name="ListItemResource10.Text" xml:space="preserve">
+    <value>LOAN CONFIG</value>
+  </data>
+  <data name="ListItemResource10.Value" xml:space="preserve">
+    <value>302</value>
+  </data>
+  <data name="ListItemResource11.Text" xml:space="preserve">
+    <value>MONTHLY SALARY GENERATION</value>
+  </data>
+  <data name="ListItemResource11.Value" xml:space="preserve">
+    <value>303</value>
+  </data>
+  <data name="ListItemResource12.Text" xml:space="preserve">
+    <value>MONTHLY PAYSLIP GENERATION</value>
+  </data>
+  <data name="ListItemResource12.Value" xml:space="preserve">
+    <value>304</value>
+  </data>
+  <data name="ListItemResource13.Text" xml:space="preserve">
+    <value>INDIVIDUAL SALARY DETAILS</value>
+  </data>
+  <data name="ListItemResource13.Value" xml:space="preserve">
+    <value>318</value>
+  </data>
+  <data name="ListItemResource14.Text" xml:space="preserve">
+    <value>PF REGISTER</value>
+  </data>
+  <data name="ListItemResource14.Value" xml:space="preserve">
+    <value>311</value>
+  </data>
+  <data name="ListItemResource15.Text" xml:space="preserve">
+    <value>ESI REGISTER</value>
+  </data>
+  <data name="ListItemResource15.Value" xml:space="preserve">
+    <value>312</value>
+  </data>
+  <data name="ListItemResource16.Text" xml:space="preserve">
+    <value>P.TAX REGISTER</value>
+  </data>
+  <data name="ListItemResource16.Value" xml:space="preserve">
+    <value>313</value>
+  </data>
+  <data name="ListItemResource17.Text" xml:space="preserve">
+    <value>EMPLOYEE DEDUCTION SETTING</value>
+  </data>
+  <data name="ListItemResource17.Value" xml:space="preserve">
+    <value>323</value>
+  </data>
+  <data name="ListItemResource18.Text" xml:space="preserve">
+    <value>ALL EMPLOYEES PAYSLIP</value>
+  </data>
+  <data name="ListItemResource18.Value" xml:space="preserve">
+    <value>324</value>
+  </data>
+  <data name="ListItemResource19.Text" xml:space="preserve">
+    <value>EMPLOYEE ADDITIONAL HEAD SETTING</value>
+  </data>
+  <data name="ListItemResource19.Value" xml:space="preserve">
+    <value>325</value>
+  </data>
+  <data name="ListItemResource2.Text" xml:space="preserve">
+    <value>COMPANY CONFIG</value>
+  </data>
+  <data name="ListItemResource2.Value" xml:space="preserve">
+    <value>101</value>
+  </data>
+  <data name="ListItemResource20.Text" xml:space="preserve">
+    <value>HR</value>
+  </data>
+  <data name="ListItemResource20.Value" xml:space="preserve">
+    <value>400</value>
+  </data>
+  <data name="ListItemResource21.Text" xml:space="preserve">
+    <value>CLAIM</value>
+  </data>
+  <data name="ListItemResource21.Value" xml:space="preserve">
+    <value>401</value>
+  </data>
+  <data name="ListItemResource22.Text" xml:space="preserve">
+    <value>CLAIM TYPE SETTING</value>
+  </data>
+  <data name="ListItemResource22.Value" xml:space="preserve">
+    <value>402</value>
+  </data>
+  <data name="ListItemResource23.Text" xml:space="preserve">
+    <value>APPLY CLAIM</value>
+  </data>
+  <data name="ListItemResource23.Value" xml:space="preserve">
+    <value>403</value>
+  </data>
+  <data name="ListItemResource24.Text" xml:space="preserve">
+    <value>APPROVE CLAIM</value>
+  </data>
+  <data name="ListItemResource24.Value" xml:space="preserve">
+    <value>404</value>
+  </data>
+  <data name="ListItemResource25.Text" xml:space="preserve">
+    <value>DIRECTOR CLAIM APPROVAL</value>
+  </data>
+  <data name="ListItemResource25.Value" xml:space="preserve">
+    <value>405</value>
+  </data>
+  <data name="ListItemResource26.Text" xml:space="preserve">
+    <value>LEAVE</value>
+  </data>
+  <data name="ListItemResource26.Value" xml:space="preserve">
+    <value>406</value>
+  </data>
+  <data name="ListItemResource27.Text" xml:space="preserve">
+    <value>PERMISSIBLE LEAVE SETTING</value>
+  </data>
+  <data name="ListItemResource27.Value" xml:space="preserve">
+    <value>407</value>
+  </data>
+  <data name="ListItemResource28.Text" xml:space="preserve">
+    <value>APPLY LEAVE</value>
+  </data>
+  <data name="ListItemResource28.Value" xml:space="preserve">
+    <value>408</value>
+  </data>
+  <data name="ListItemResource29.Text" xml:space="preserve">
+    <value>APPROVE LEAVE</value>
+  </data>
+  <data name="ListItemResource29.Value" xml:space="preserve">
+    <value>409</value>
+  </data>
+  <data name="ListItemResource3.Text" xml:space="preserve">
+    <value>CREATE FIN YEAR</value>
+  </data>
+  <data name="ListItemResource3.Value" xml:space="preserve">
+    <value>102</value>
+  </data>
+  <data name="ListItemResource30.Text" xml:space="preserve">
+    <value>DIRECTOR LEAVE APPROVAL</value>
+  </data>
+  <data name="ListItemResource30.Value" xml:space="preserve">
+    <value>410</value>
+  </data>
+  <data name="ListItemResource31.Text" xml:space="preserve">
+    <value>EMPLOYEE INFORMATION</value>
+  </data>
+  <data name="ListItemResource31.Value" xml:space="preserve">
+    <value>411</value>
+  </data>
+  <data name="ListItemResource32.Text" xml:space="preserve">
+    <value>ROLE ACCESS LEVEL</value>
+  </data>
+  <data name="ListItemResource32.Value" xml:space="preserve">
+    <value>412</value>
+  </data>
+  <data name="ListItemResource33.Text" xml:space="preserve">
+    <value>IMPORT EMPLOYEE ATTENDANCE</value>
+  </data>
+  <data name="ListItemResource33.Value" xml:space="preserve">
+    <value>413</value>
+  </data>
+  <data name="ListItemResource34.Text" xml:space="preserve">
+    <value>STUDENT</value>
+  </data>
+  <data name="ListItemResource34.Value" xml:space="preserve">
+    <value>200</value>
+  </data>
+  <data name="ListItemResource35.Text" xml:space="preserve">
+    <value>ALL STUDENT</value>
+  </data>
+  <data name="ListItemResource35.Value" xml:space="preserve">
+    <value>201</value>
+  </data>
+  <data name="ListItemResource36.Text" xml:space="preserve">
+    <value>BTECH REGISTRATION</value>
+  </data>
+  <data name="ListItemResource36.Value" xml:space="preserve">
+    <value>202</value>
+  </data>
+  <data name="ListItemResource37.Text" xml:space="preserve">
+    <value>MBA REGISTRATION</value>
+  </data>
+  <data name="ListItemResource37.Value" xml:space="preserve">
+    <value>203</value>
+  </data>
+  <data name="ListItemResource38.Text" xml:space="preserve">
+    <value>MTECH REGISTRATION</value>
+  </data>
+  <data name="ListItemResource38.Value" xml:space="preserve">
+    <value>212</value>
+  </data>
+  <data name="ListItemResource39.Text" xml:space="preserve">
+    <value>LIBRARY FINE</value>
+  </data>
+  <data name="ListItemResource39.Value" xml:space="preserve">
+    <value>204</value>
+  </data>
+  <data name="ListItemResource4.Text" xml:space="preserve">
+    <value>PAYROLL</value>
+  </data>
+  <data name="ListItemResource4.Value" xml:space="preserve">
+    <value>300</value>
+  </data>
+  <data name="ListItemResource40.Text" xml:space="preserve">
+    <value>TEACHER SUBJECT MAPPING</value>
+  </data>
+  <data name="ListItemResource40.Value" xml:space="preserve">
+    <value>205</value>
+  </data>
+  <data name="ListItemResource41.Text" xml:space="preserve">
+    <value>STUDENT ATTENDANCE</value>
+  </data>
+  <data name="ListItemResource41.Value" xml:space="preserve">
+    <value>206</value>
+  </data>
+  <data name="ListItemResource42.Text" xml:space="preserve">
+    <value>STUDENT ATTENDANCE REPORT</value>
+  </data>
+  <data name="ListItemResource42.Value" xml:space="preserve">
+    <value>207</value>
+  </data>
+  <data name="ListItemResource43.Text" xml:space="preserve">
+    <value>FEES HEAD MASTER</value>
+  </data>
+  <data name="ListItemResource43.Value" xml:space="preserve">
+    <value>213</value>
+  </data>
+  <data name="ListItemResource44.Text" xml:space="preserve">
+    <value>FEES</value>
+  </data>
+  <data name="ListItemResource44.Value" xml:space="preserve">
+    <value>208</value>
+  </data>
+  <data name="ListItemResource45.Text" xml:space="preserve">
+    <value>ALL FEES</value>
+  </data>
+  <data name="ListItemResource45.Value" xml:space="preserve">
+    <value>209</value>
+  </data>
+  <data name="ListItemResource46.Text" xml:space="preserve">
+    <value>APPROVE STUDENT</value>
+  </data>
+  <data name="ListItemResource46.Value" xml:space="preserve">
+    <value>210</value>
+  </data>
+  <data name="ListItemResource47.Text" xml:space="preserve">
+    <value>SEMESTER FEES GENERATION</value>
+  </data>
+  <data name="ListItemResource47.Value" xml:space="preserve">
+    <value>211</value>
+  </data>
+  <data name="ListItemResource48.Text" xml:space="preserve">
+    <value>STREAM MASTER</value>
+  </data>
+  <data name="ListItemResource48.Value" xml:space="preserve">
+    <value>214</value>
+  </data>
+  <data name="ListItemResource49.Text" xml:space="preserve">
+    <value>STUDENT PROMOTION</value>
+  </data>
+  <data name="ListItemResource49.Value" xml:space="preserve">
+    <value>215</value>
+  </data>
+  <data name="ListItemResource5.Text" xml:space="preserve">
+    <value>STATUTORY SALARY CONFIG</value>
+  </data>
+  <data name="ListItemResource5.Value" xml:space="preserve">
+    <value>319</value>
+  </data>
+  <data name="ListItemResource50.Text" xml:space="preserve">
+    <value>NEW STUDENT ADMISSION REPORT</value>
+  </data>
+  <data name="ListItemResource50.Value" xml:space="preserve">
+    <value>216</value>
+  </data>
+  <data name="ListItemResource51.Text" xml:space="preserve">
+    <value>USER BASE APPROVED STUDENT LIST</value>
+  </data>
+  <data name="ListItemResource51.Value" xml:space="preserve">
+    <value>217</value>
+  </data>
+  <data name="ListItemResource52.Text" xml:space="preserve">
+    <value>HOSTEL FEES CONFIG</value>
+  </data>
+  <data name="ListItemResource52.Value" xml:space="preserve">
+    <value>218</value>
+  </data>
+  <data name="ListItemResource53.Text" xml:space="preserve">
+    <value>HOSTEL FEES GENERATION</value>
+  </data>
+  <data name="ListItemResource53.Value" xml:space="preserve">
+    <value>219</value>
+  </data>
+  <data name="ListItemResource54.Text" xml:space="preserve">
+    <value>STUDENT CREDIT BILL ENTRY</value>
+  </data>
+  <data name="ListItemResource54.Value" xml:space="preserve">
+    <value>220</value>
+  </data>
+  <data name="ListItemResource55.Text" xml:space="preserve">
+    <value>STUDENT DROP OUT</value>
+  </data>
+  <data name="ListItemResource55.Value" xml:space="preserve">
+    <value>221</value>
+  </data>
+  <data name="ListItemResource56.Text" xml:space="preserve">
+    <value>INCOME TAX</value>
+  </data>
+  <data name="ListItemResource56.Value" xml:space="preserve">
+    <value>305</value>
+  </data>
+  <data name="ListItemResource57.Text" xml:space="preserve">
+    <value>GENERATE FORM16</value>
+  </data>
+  <data name="ListItemResource57.Value" xml:space="preserve">
+    <value>306</value>
+  </data>
+  <data name="ListItemResource58.Text" xml:space="preserve">
+    <value>VIEW FORM16</value>
+  </data>
+  <data name="ListItemResource58.Value" xml:space="preserve">
+    <value>316</value>
+  </data>
+  <data name="ListItemResource59.Text" xml:space="preserve">
+    <value>ALL EMPLOYEES FORM16</value>
+  </data>
+  <data name="ListItemResource59.Value" xml:space="preserve">
+    <value>317</value>
+  </data>
+  <data name="ListItemResource6.Text" xml:space="preserve">
+    <value>YEARLY HOLIDAY CONFIG</value>
+  </data>
+  <data name="ListItemResource6.Value" xml:space="preserve">
+    <value>320</value>
+  </data>
+  <data name="ListItemResource60.Text" xml:space="preserve">
+    <value>IT EMPLOYEE CONTRIBUTION</value>
+  </data>
+  <data name="ListItemResource60.Value" xml:space="preserve">
+    <value>307</value>
+  </data>
+  <data name="ListItemResource61.Text" xml:space="preserve">
+    <value>IT PREV EMPL DETAILS</value>
+  </data>
+  <data name="ListItemResource61.Value" xml:space="preserve">
+    <value>314</value>
+  </data>
+  <data name="ListItemResource62.Text" xml:space="preserve">
+    <value>ALL EMPLOYEES IT CONTRIBUTION</value>
+  </data>
+  <data name="ListItemResource62.Value" xml:space="preserve">
+    <value>315</value>
+  </data>
+  <data name="ListItemResource63.Text" xml:space="preserve">
+    <value>IT INVESTMENT HEAD</value>
+  </data>
+  <data name="ListItemResource63.Value" xml:space="preserve">
+    <value>308</value>
+  </data>
+  <data name="ListItemResource64.Text" xml:space="preserve">
+    <value>IT PREV EMP HEAD</value>
+  </data>
+  <data name="ListItemResource64.Value" xml:space="preserve">
+    <value>309</value>
+  </data>
+  <data name="ListItemResource65.Text" xml:space="preserve">
+    <value>IT SECTION MASTER</value>
+  </data>
+  <data name="ListItemResource65.Value" xml:space="preserve">
+    <value>310</value>
+  </data>
+  <data name="ListItemResource66.Text" xml:space="preserve">
+    <value>ACCOUNTS</value>
+  </data>
+  <data name="ListItemResource66.Value" xml:space="preserve">
+    <value>500</value>
+  </data>
+  <data name="ListItemResource67.Text" xml:space="preserve">
+    <value>ACCOUNTS GROUP</value>
+  </data>
+  <data name="ListItemResource67.Value" xml:space="preserve">
+    <value>502</value>
+  </data>
+  <data name="ListItemResource68.Text" xml:space="preserve">
+    <value>GENERAL LEDGER</value>
+  </data>
+  <data name="ListItemResource68.Value" xml:space="preserve">
+    <value>503</value>
+  </data>
+  <data name="ListItemResource69.Text" xml:space="preserve">
+    <value>COST CENTER</value>
+  </data>
+  <data name="ListItemResource69.Value" xml:space="preserve">
+    <value>504</value>
+  </data>
+  <data name="ListItemResource7.Text" xml:space="preserve">
+    <value>P.TAX SLAB CONFIG</value>
+  </data>
+  <data name="ListItemResource7.Value" xml:space="preserve">
+    <value>321</value>
+  </data>
+  <data name="ListItemResource70.Text" xml:space="preserve">
+    <value>BANK ACCOUNT</value>
+  </data>
+  <data name="ListItemResource70.Value" xml:space="preserve">
+    <value>505</value>
+  </data>
+  <data name="ListItemResource71.Text" xml:space="preserve">
+    <value>RECEIPT PAYMENT VOUCHER</value>
+  </data>
+  <data name="ListItemResource71.Value" xml:space="preserve">
+    <value>506</value>
+  </data>
+  <data name="ListItemResource72.Text" xml:space="preserve">
+    <value>JOURNAL VOUCHER</value>
+  </data>
+  <data name="ListItemResource72.Value" xml:space="preserve">
+    <value>507</value>
+  </data>
+  <data name="ListItemResource73.Text" xml:space="preserve">
+    <value>CONTRA VOUCHER</value>
+  </data>
+  <data name="ListItemResource73.Value" xml:space="preserve">
+    <value>508</value>
+  </data>
+  <data name="ListItemResource74.Text" xml:space="preserve">
+    <value>BANK RECONSILATION</value>
+  </data>
+  <data name="ListItemResource74.Value" xml:space="preserve">
+    <value>509</value>
+  </data>
+  <data name="ListItemResource75.Text" xml:space="preserve">
+    <value>STUDENT FEES COLLECTION</value>
+  </data>
+  <data name="ListItemResource75.Value" xml:space="preserve">
+    <value>511</value>
+  </data>
+  <data name="ListItemResource76.Text" xml:space="preserve">
+    <value>STUDENT PAYMENT DETAILS</value>
+  </data>
+  <data name="ListItemResource76.Value" xml:space="preserve">
+    <value>512</value>
+  </data>
+  <data name="ListItemResource77.Text" xml:space="preserve">
+    <value>STUDENT ADVANCE REFUND</value>
+  </data>
+  <data name="ListItemResource77.Value" xml:space="preserve">
+    <value>528</value>
+  </data>
+  <data name="ListItemResource78.Text" xml:space="preserve">
+    <value>STUDENT OUTSTANDING REPORT</value>
+  </data>
+  <data name="ListItemResource78.Value" xml:space="preserve">
+    <value>524</value>
+  </data>
+  <data name="ListItemResource79.Text" xml:space="preserve">
+    <value>EXPENSE REIMBURSEMENT</value>
+  </data>
+  <data name="ListItemResource79.Value" xml:space="preserve">
+    <value>513</value>
+  </data>
+  <data name="ListItemResource8.Text" xml:space="preserve">
+    <value>PAYBAND MASTER</value>
+  </data>
+  <data name="ListItemResource8.Value" xml:space="preserve">
+    <value>322</value>
+  </data>
+  <data name="ListItemResource80.Text" xml:space="preserve">
+    <value>PURCHASE BILL PAYMENT</value>
+  </data>
+  <data name="ListItemResource80.Value" xml:space="preserve">
+    <value>514</value>
+  </data>
+  <data name="ListItemResource81.Text" xml:space="preserve">
+    <value>CHANGE FIN YEAR/COMPANY</value>
+  </data>
+  <data name="ListItemResource81.Value" xml:space="preserve">
+    <value>515</value>
+  </data>
+  <data name="ListItemResource82.Text" xml:space="preserve">
+    <value>REPORT LEDGER</value>
+  </data>
+  <data name="ListItemResource82.Value" xml:space="preserve">
+    <value>518</value>
+  </data>
+  <data name="ListItemResource83.Text" xml:space="preserve">
+    <value>REPORT BRS</value>
+  </data>
+  <data name="ListItemResource83.Value" xml:space="preserve">
+    <value>525</value>
+  </data>
+  <data name="ListItemResource84.Text" xml:space="preserve">
+    <value>REPORT JOURNAL VOUCHER</value>
+  </data>
+  <data name="ListItemResource84.Value" xml:space="preserve">
+    <value>519</value>
+  </data>
+  <data name="ListItemResource85.Text" xml:space="preserve">
+    <value>REPORT RECEIPT PAYMENT VOUCHER</value>
+  </data>
+  <data name="ListItemResource85.Value" xml:space="preserve">
+    <value>520</value>
+  </data>
+  <data name="ListItemResource86.Text" xml:space="preserve">
+    <value>REPORT USER BASE RECEIPT PAYMENT VOUCHER</value>
+  </data>
+  <data name="ListItemResource86.Value" xml:space="preserve">
+    <value>527</value>
+  </data>
+  <data name="ListItemResource87.Text" xml:space="preserve">
+    <value>REPORT CONTRA VOUCHER</value>
+  </data>
+  <data name="ListItemResource87.Value" xml:space="preserve">
+    <value>526</value>
+  </data>
+  <data name="ListItemResource88.Text" xml:space="preserve">
+    <value>REPORT BILL PAYMENT</value>
+  </data>
+  <data name="ListItemResource88.Value" xml:space="preserve">
+    <value>521</value>
+  </data>
+  <data name="ListItemResource89.Text" xml:space="preserve">
+    <value>REPORT TRIAL BALANCE</value>
+  </data>
+  <data name="ListItemResource89.Value" xml:space="preserve">
+    <value>522</value>
+  </data>
+  <data name="ListItemResource9.Text" xml:space="preserve">
+    <value>EMPLOYEE SALARY CONFIG</value>
+  </data>
+  <data name="ListItemResource9.Value" xml:space="preserve">
+    <value>301</value>
+  </data>
+  <data name="ListItemResource90.Text" xml:space="preserve">
+    <value>REPORT BALANCE SHEET</value>
+  </data>
+  <data name="ListItemResource90.Value" xml:space="preserve">
+    <value>523</value>
+  </data>
+  <data name="ListItemResource91.Text" xml:space="preserve">
+    <value>Purchase Order</value>
+  </data>
+  <data name="ListItemResource91.Value" xml:space="preserve">
+    <value>600</value>
+  </data>
+  <data name="ListItemResource92.Text" xml:space="preserve">
+    <value>Purchase Order Entry</value>
+  </data>
+  <data name="ListItemResource92.Value" xml:space="preserve">
+    <value>601</value>
+  </data>
+  <data name="ListItemResource93.Text" xml:space="preserve">
+    <value>Delete Voucher</value>
+  </data>
+  <data name="ListItemResource93.Value" xml:space="preserve">
+    <value>701</value>
+  </data>
+  <data name="PageResource1.Title" xml:space="preserve">
+    <value>Role Access Level</value>
+  </data>
+</root>

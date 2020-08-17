@@ -1,0 +1,164 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SuperAdmin.master.cs" Inherits="CollegeERP.SuperAdmin" %>
+<%@ Register src="UserControl/menu.ascx" tagname="menu" tagprefix="uc1" %>
+<%@ Register src="UserControl/LeftNav.ascx" tagname="LeftNav" tagprefix="uc2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title></title>
+    <link href="/Styles/reset.css" type="text/css" rel="Stylesheet" />
+    <link href="/Styles/style.css" type="text/css" rel="Stylesheet" />
+    <link href="/Styles/blue.css" type="text/css" rel="Stylesheet" />
+    <link href="/Styles/Control.css" type="text/css" rel="Stylesheet" />
+        <script src="/Scripts/jquery-1.6.4.min.js" type="text/javascript"></script>
+		<!--[if IE]><script language="javascript" type="text/javascript" src="resources/scripts/excanvas.min.js"></script><![endif]-->
+		<script src="/Scripts/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+		<script src="/Scripts/jquery.ui.selectmenu.js" type="text/javascript"></script>
+		<script src="/Scripts/jquery.flot.min.js" type="text/javascript"></script>
+		<script src="/Scripts/tiny_mce/tiny_mce.js" type="text/javascript"></script>
+		<script src="/Scripts/tiny_mce/jquery.tinymce.js" type="text/javascript"></script>
+		<!-- scripts (custom) -->
+		<script src="/Scripts/smooth.js" type="text/javascript"></script>
+		<script src="/Scripts/smooth.menu.js" type="text/javascript"></script>
+		<script src="/Scripts/smooth.chart.js" type="text/javascript"></script>
+		<script src="/Scripts/smooth.table.js" type="text/javascript"></script>
+		<script src="/Scripts/smooth.form.js" type="text/javascript"></script>
+		<script src="/Scripts/smooth.dialog.js" type="text/javascript"></script>
+		<script src="/Scripts/smooth.autocomplete.js" type="text/javascript"></script>
+		<script src="/Scripts/ssjscript.js" type="text/javascript"></script>
+		<%--jQuery--%>
+		<script src="/Scripts/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header">
+			<!-- logo -->
+			<div id="logo">
+				<h1><img src="/Images/logo.png" alt="Smooth Admin" width="600px" /></h1>
+			</div>
+			<br />
+			<ul id="user">
+				<li class="first">
+				    <a href="">
+				        <asp:Literal ID="ltrTitle" runat="server" Mode="PassThrough"></asp:Literal>    	
+				    </a>
+				</li>
+				<li><a href="#">Change Password</a></li>
+				<li class="highlight last">
+				    <a href="/Logout.aspx">Logout</a>
+				</li>
+			</ul>
+			
+        <div id="header-inner">
+				<div id="home">
+					<a href="" title="Home"></a>
+				</div>
+				<!-- quick -->
+				<ul id="quick">
+    <li id="liStudent" runat="server"><a href="" title="Student"><span class="icon">
+        <img src="/Images/Student.jpg" alt="Student" /></span><span>Student</span></a>
+        <ul>
+            <li id="liNewStudentAdmissionReport" runat="server"><a href="/Student/NewAdmissionReport.aspx">
+                New Student Admission Report</a></li>
+            <li id="liUserBaseApproveRejectReport" runat="server"><a href="/Student/UserBaseApprovedStudentList.aspx">
+                Approved/Rejected Student List</a></li>
+            <li id="li4" runat="server"><a href="/Student/ApproveHostelList.aspx">Approved/Rejected
+                Hostel Report</a></li>
+            <li id="liStudentAttendanceReport" runat="server"><a href="/Student/AttendanceReport.aspx">
+                Student Attendance Report</a></li>
+        </ul>
+    </li>
+    <li id="liPayroll" runat="server"><a href="" title="Payroll"><span class="icon">
+        <img src="/Images/Payroll.jpg" alt="Payroll" /></span><span>Payroll</span></a>
+        <ul>
+            <li id="liIncrementReport" runat="server"><a href="/Payroll/EmployeeIncrementReport.aspx">
+                Increment Report</a></li>
+        </ul>
+    </li>
+    <li id="liHR" runat="server"><a href="" title="HR"><span class="icon">
+        <img src="/Images/HR.jpg" alt="HR" /></span><span>HR</span></a>
+        <ul>
+            <li id="liEmployeeDetail" runat="server"><a href="/HR/EmployeeDetail.aspx">Employee
+                Detail</a></li>
+            <li id="liEmpIndividualReport" runat="server"><a href="/HR/EmployeeIndividualReport.aspx">
+                Employee Individual Report</a></li>
+            <li id="liLeaveReport" runat="server"><a href="/HR/LeaveReport.aspx">Leave Report</a></li>
+            <li id="liLeaveBalanceReport" runat="server"><a href="/HR/LeaveReportBalance.aspx">Leave
+                Balance Report</a></li>
+
+        </ul>
+    </li>
+    <li id="liAccounts" runat="server"><a href="" title="Accounts"><span class="icon">
+        <img src="/Images/Ruppees.jpg" alt="Accounts" /></span><span>Accounts</span></a>
+        <ul>
+            <li id="liRPTGeneralLedger" runat="server"><a href="/Accounts/RPTGeneralLedger.aspx">
+                General Ledger</a></li>
+            <li id="liRPTGeneralLedgerBalance" runat="server"><a href="/Accounts/RPTGeneralLedgerBalance.aspx">
+                General Ledger Balance</a></li>
+            <li id="liRPTLedger" runat="server"><a href="/Accounts/RPTLedger.aspx">Ledger Report</a></li>
+            <li id="liRPTBrs" runat="server"><a href="/Accounts/RPTBrs.aspx">BRS Report</a></li>
+            <li id="liRPTJournalRegister" runat="server"><a href="/Accounts/RPTJournalRegister.aspx">
+                Journal Report</a></li>
+            <li id="liRPTCashBankVoucher" runat="server"><a href="/Accounts/RPTCashBankVoucher.aspx">
+                Receipt/Payment Report</a></li>
+            <li id="liRPTUserBaseCashBankVoucher" runat="server"><a href="/Accounts/RPTUserBaseCashBankVoucher.aspx">
+                Day End Report</a></li>
+            <li id="liRPTContraVoucher" runat="server"><a href="/Accounts/RPTContraVoucher.aspx">
+                Contra Report</a></li>
+            <li id="liStudentOutstandingReport" runat="server"><a href="/Accounts/StudentOutstandingReport.aspx">
+                Student Ledger Report</a></li>
+            <li id="liStudentConsolidatedOutstandingReport" runat="server"><a href="/Accounts/StudentConsolidatedOutstandingReport.aspx">
+                Student Consolidated Ledger Report
+            </a></li>    
+            <li id="liStudentCautionMoneySummaryReport" runat="server"><a href="/Accounts/StudentCautionMoneySummaryReport.aspx">
+                Caution Money Summary Report</a></li>
+            <li id="liStudentCautionMoneyIndividualReport" runat="server"><a href="/Accounts/StudentCautionMoneyIndividualReport.aspx">
+                Caution Money Individual Report</a></li>
+            <li id="liRPTBillPayment" runat="server"><a href="/Accounts/RPTPurchaseBillPayment.aspx">
+                Bill Payment Report</a></li>
+            <li id="liRPTTrailBalance" runat="server"><a href="/Accounts/RPTTrailBalance.aspx">Trial
+                Balance</a></li>
+            <li id="liBalanceSheet" runat="server"><a href="/Accounts/RPTProfitLoss.aspx">P/L &
+                Balance Sheet</a></li>
+            <li id="liRPTCostCenterWiseReport" runat="server"><a href="/Accounts/RPTCostCenterWiseReport.aspx">
+                Cost Center Wise Report</a></li>
+            <li id="liChangeFinYr" runat="server"><a href="/Accounts/ChangeFinYr.aspx">Change Fin
+                Year / Company</a></li>    
+        </ul>
+    </li>
+    
+				<!-- end quick -->
+				<div class="corner tl"></div>
+				<div class="corner tr"></div>
+		</div>
+	</div>
+        <center>
+        <div id="content">
+            <%--<div id="left">
+				<div id="menu">
+                    <uc2:LeftNav ID="LeftNav1" runat="server" />
+				</div>
+            </div>--%>
+
+            <%--<div id="right">--%>
+                <div class="box" align="center">
+                    <center>
+                        <div class="Skybox">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <div>aa</div>
+                    </asp:ContentPlaceHolder>
+                    </div>    
+                    </center>
+                </div>
+            <%--</div>--%>
+        
+        <div id="footer">
+			<p>Copyright &copy; 2011-2012 Campus Link. All Rights Reserved.</p>
+        </div>
+       </div>     </center>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1048 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2017-05-23T16:37:44.0000000+05:30</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI_Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Accounts/AccountGroupType.aspx">
+      <publishTime>08/26/2015 11:28:30</publishTime>
+    </File>
+    <File Include="Accounts/AccountsGroup.aspx">
+      <publishTime>08/26/2015 11:28:30</publishTime>
+    </File>
+    <File Include="Accounts/App_LocalResources/MoneyReceipt.aspx.resx">
+      <publishTime>08/26/2015 11:28:30</publishTime>
+    </File>
+    <File Include="Accounts/BankAccount.aspx">
+      <publishTime>08/26/2015 11:28:30</publishTime>
+    </File>
+    <File Include="Accounts/BankReconsiliation.aspx">
+      <publishTime>08/26/2015 11:28:30</publishTime>
+    </File>
+    <File Include="Accounts/CashBankVoucher.aspx">
+      <publishTime>08/26/2015 11:28:30</publishTime>
+    </File>
+    <File Include="Accounts/ChangeCompany.aspx">
+      <publishTime>08/26/2015 11:28:30</publishTime>
+    </File>
+    <File Include="Accounts/ChangeFinYr.aspx">
+      <publishTime>08/26/2015 11:28:30</publishTime>
+    </File>
+    <File Include="Accounts/ContraVoucher.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/CostCentre.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/CreatefinYr.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/DebitNote.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/ExpenseReimbursement.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/FundTransfer.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/GeneralLedger.aspx">
+      <publishTime>02/25/2016 12:16:34</publishTime>
+    </File>
+    <File Include="Accounts/JournalVoucher.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/MoneyReceipt.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/MoneyReceiptDiploma.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/MoneyReceiptMgmnt.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/PLTransfer.aspx">
+      <publishTime>03/05/2016 13:46:40</publishTime>
+    </File>
+    <File Include="Accounts/PrintContraVoucher.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/PrintDebitNote.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/PrintJournalVoucher.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/PurchaseBillPayment.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTBrs.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTCashBankVoucher.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTContraVoucher.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTCostCenterWiseReport.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTGeneralLedger.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTGeneralLedgerBalance.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTGridView.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTGridViewDiploma.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTGridViewMgmnt.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTJournalRegister.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTLedger.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTProfitLoss.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTPurchaseBillPayment.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTShowGrid.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RptStudentFeesCollection.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTTrailBalance.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RPTUserBaseCashBankVoucher.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/RTPReceiptPaymentAccount.aspx">
+      <publishTime>11/17/2015 11:52:08</publishTime>
+    </File>
+    <File Include="Accounts/StudentAdvanceRefund.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/StudentBillDetails.aspx">
+      <publishTime>05/23/2017 15:45:40</publishTime>
+    </File>
+    <File Include="Accounts/StudentCautionMoneyIndividualReport.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/StudentCautionMoneyRefund.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/StudentCautionMoneySummaryReport.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/StudentConsolidatedOutstandingReport.aspx">
+      <publishTime>07/03/2019 18:30:26</publishTime>
+    </File>
+    <File Include="Accounts/StudentFeesCollection.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/StudentJournal.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/StudentJournalTran.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/StudentOpeningBalance.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/StudentOutstandingReport.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/StudentPaymentDetails.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Accounts/TrialBalance.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Admission/BTechRegistration.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Admission/MBARegistration.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Admission/MTechRegistration.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Admission/Thanks.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>08/13/2012 00:56:30</publishTime>
+    </File>
+    <File Include="bin/BusinessLayer.dll">
+      <publishTime>05/29/2019 16:36:00</publishTime>
+    </File>
+    <File Include="bin/BusinessLayer.pdb">
+      <publishTime>05/29/2019 16:36:00</publishTime>
+    </File>
+    <File Include="bin/DataAccess.dll">
+      <publishTime>05/29/2019 16:35:58</publishTime>
+    </File>
+    <File Include="bin/DataAccess.pdb">
+      <publishTime>05/29/2019 16:35:58</publishTime>
+    </File>
+    <File Include="bin/Entity.dll">
+      <publishTime>05/29/2019 16:35:54</publishTime>
+    </File>
+    <File Include="bin/Entity.pdb">
+      <publishTime>05/29/2019 16:35:54</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>02/05/2013 13:41:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Interop.Excel.dll">
+      <publishTime>01/19/2011 06:57:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.ConnectionInfo.dll">
+      <publishTime>02/20/2014 20:44:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.Dmf.dll">
+      <publishTime>02/20/2014 20:44:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.Management.Sdk.Sfc.dll">
+      <publishTime>02/20/2014 20:44:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.ServiceBrokerEnum.dll">
+      <publishTime>02/20/2014 20:44:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.Smo.dll">
+      <publishTime>02/20/2014 20:44:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.SqlEnum.dll">
+      <publishTime>02/20/2014 20:44:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Vbe.Interop.dll">
+      <publishTime>01/19/2011 06:57:04</publishTime>
+    </File>
+    <File Include="bin/office.dll">
+      <publishTime>01/19/2011 06:57:04</publishTime>
+    </File>
+    <File Include="bin/SKFGI.dll">
+      <publishTime>08/05/2019 13:20:11</publishTime>
+    </File>
+    <File Include="bin/SKFGI.pdb">
+      <publishTime>06/03/2019 13:03:52</publishTime>
+    </File>
+    <File Include="bin/stdole.dll">
+      <publishTime>03/18/2010 23:21:56</publishTime>
+    </File>
+    <File Include="ChangePassword.aspx">
+      <publishTime>08/26/2015 11:31:24</publishTime>
+    </File>
+    <File Include="Common/AddEditEmployee.aspx">
+      <publishTime>07/10/2019 13:39:02</publishTime>
+    </File>
+    <File Include="Common/AppointmentLetter.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/App_LocalResources/RoleAccessLevel.aspx.resx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/BranchMaster.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/CategoryMaster.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/CityMaster.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/CollegeMaster.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/DbBackupRestore.aspx">
+      <publishTime>02/22/2018 12:15:20</publishTime>
+    </File>
+    <File Include="Common/DepartmentMaster.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/DesignationMaster.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/DistrictMaster.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/EmployeeAttendance.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/EmployeeAttendanceNew.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/EmployeeIDCard.aspx">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/EmployeePhoto/1.jpg">
+      <publishTime>08/26/2015 11:28:32</publishTime>
+    </File>
+    <File Include="Common/EmployeePhoto/Female.JPG">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/EmployeePhoto/Male.JPG">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/EmployeeTermsAndCondition.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/GradeMaster.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/HolidayList.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/PaybandMaster.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/PopupFamilyDetails.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/PopUpLeaveDetail.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/PopupOfficialDetails.aspx">
+      <publishTime>01/13/2017 13:15:52</publishTime>
+    </File>
+    <File Include="Common/PopupPTaxDetails.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/PopupQualification.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/PopUpRole.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/PopUpTermsAndCondition.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/PopupWorkDetails.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/PTax.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/RoleAccessLevel.aspx">
+      <publishTime>05/22/2017 17:25:38</publishTime>
+    </File>
+    <File Include="Common/SchoolMaster.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/StateMaster.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/StatutorySalaryConfig.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="Common/StreamMaster.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="DBQuery.aspx">
+      <publishTime>08/26/2015 11:31:20</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/26/2015 11:31:20</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/26/2015 11:31:20</publishTime>
+    </File>
+    <File Include="GoogleCrome.htm">
+      <publishTime>08/26/2015 11:31:20</publishTime>
+    </File>
+    <File Include="Home.Master">
+      <publishTime>01/13/2017 12:36:04</publishTime>
+    </File>
+    <File Include="HR/ApplyClaim.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="HR/ApplyLeaves.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="HR/ClaimList.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="HR/DirectLeaveEntry.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="HR/DirectorClaimApproval.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="HR/DirectorLeaveApproval.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="HR/EmpIndividualPrint.aspx">
+      <publishTime>08/26/2015 11:28:34</publishTime>
+    </File>
+    <File Include="HR/EmployeeDetail.aspx">
+      <publishTime>01/16/2017 13:17:36</publishTime>
+    </File>
+    <File Include="HR/EmployeeIndividualReport.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/ExpenseType.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/LeaveApplicationConfig.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/LeaveDeleteList.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/LeaveList.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/LeaveManagerChange.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/LeaveReport.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/LeaveReportBalance.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/LeaveSetting.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/LeaveStockUpdate.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="HR/PopUpLeave.aspx">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/AboutUs.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/AccecptButton.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/ajax-loader.gif">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/application_double.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/background.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/bg.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/bing.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/button.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/button_highlight.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/button_highlight_selected.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/button_home.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/calendar%281%29.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/calendar.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/close.gif">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/close_pop.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/cog.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/college.PNG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/Content.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/cross.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/delete_icon.gif">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/DiplomaHeader.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/edit_icon.gif">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/error.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/ginger.jpg">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/Google.jpg">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/Headerbg.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/header_background.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/header_inner.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/header_inner_corners.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/Home.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/HR.jpg">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/IDCardHeader.JPG">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/install_button.jpg">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/login-box-backg.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/login-btn.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/login_corners.png">
+      <publishTime>08/26/2015 11:28:36</publishTime>
+    </File>
+    <File Include="Images/logo-small.jpg">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/logoBTech.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/Management.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/menu_arrow.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/menu_border.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/menu_l_selected.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/menu_minus.PNG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/menu_plus.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/menu_r_selected.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/menu_selected.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/minus.gif">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/minus.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/minus.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/Module.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/newLeft.gif">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/New_Icon.jpg">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/NO.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/notice.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/page_white_copy.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/Payroll.jpg">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/plus.gif">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/plus.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/plus.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/PO.jpg">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/print-icon.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/print.gif">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/PrintNALogo.JPG">
+      <publishTime>02/25/2019 15:48:23</publishTime>
+    </File>
+    <File Include="Images/quick_l.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/quick_l_selected.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/quick_r.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/quick_r_selected.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/RejectButton.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/remove.gif">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/ReportHeader.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/Ruppees.jpg">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/Signature.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/Student.jpg">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/StudentCampusDirector.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/success.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/TermsAndCondition.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/title.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/title_link.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/title_tab_selected.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/Unauthorized.jpg">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/warning.gif">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/warning.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/world_link.png">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Images/YES.JPG">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>08/26/2015 11:31:22</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>08/26/2015 11:31:22</publishTime>
+    </File>
+    <File Include="MasterAdmin.Master">
+      <publishTime>02/20/2019 15:49:53</publishTime>
+    </File>
+    <File Include="Payroll/AllEmployeesPaySlip.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/EmployeeAdditionalHeadSetting.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/EmployeeDeductionSetting.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/EmployeeIncrementList.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/EmployeeIncrementReport.aspx">
+      <publishTime>08/17/2016 13:58:30</publishTime>
+    </File>
+    <File Include="Payroll/EmployeeSalary.aspx">
+      <publishTime>07/16/2016 18:09:40</publishTime>
+    </File>
+    <File Include="Payroll/Form16.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/Form16Generate.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/Form16Print.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/HTMLPage1.htm">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/IndividualSalaryDeatails.aspx">
+      <publishTime>02/23/2018 17:13:58</publishTime>
+    </File>
+    <File Include="Payroll/ITaxEmployeeContribution.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/ITaxEmployeePrevEmplDetails.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/ITaxInvestmentHeads.aspx">
+      <publishTime>08/26/2015 11:28:38</publishTime>
+    </File>
+    <File Include="Payroll/ITaxPrevEmplHeads.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/ITaxSectionMaster.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/LoanEntryDetails.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/MonthlyESIRegister.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/MonthlyPFRegister.aspx">
+      <publishTime>01/13/2017 13:17:26</publishTime>
+    </File>
+    <File Include="Payroll/MonthlyPTaxRegister.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/MonthlySalaryGeneration.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/PaySlip.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/PopupSalaryHeadDetails.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/PtaxChallan.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/PTaxDetailsReport.aspx">
+      <publishTime>02/23/2018 17:12:16</publishTime>
+    </File>
+    <File Include="Payroll/PTaxSummeryReport.aspx">
+      <publishTime>02/23/2018 17:12:50</publishTime>
+    </File>
+    <File Include="Payroll/SalaryHeadUpdation.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="Payroll/TdsChallan.aspx">
+      <publishTime>08/26/2015 11:28:40</publishTime>
+    </File>
+    <File Include="PurchaseOrder/PurchaseOrderEntry.aspx">
+      <publishTime>12/11/2015 15:43:16</publishTime>
+    </File>
+    <File Include="Scripts/ga.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>08/26/2015 11:24:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>08/26/2015 11:24:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>08/26/2015 11:24:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.16.custom.min.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery.flot.min.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery.tinymce.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery.ui.selectmenu.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/rum.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/scw.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/smooth.autocomplete.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/smooth.chart.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/smooth.dialog.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/smooth.form.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/smooth.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/smooth.menu.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/smooth.table.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/ssjscript.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/tiny_mce.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/webtrends.hm.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/webtrends.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Scripts/webtrends.min.js">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/AllFees.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/allStudent.aspx">
+      <publishTime>05/18/2018 13:03:16</publishTime>
+    </File>
+    <File Include="Student/ApproveHostel.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/ApproveHostelList.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/ApproveStudent.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/Attendance.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/AttendanceReport.aspx">
+      <publishTime>08/26/2015 16:44:12</publishTime>
+    </File>
+    <File Include="Student/BTechRegistration.aspx">
+      <publishTime>02/14/2019 17:43:01</publishTime>
+    </File>
+    <File Include="Student/BTechRegistrationPrint.aspx">
+      <publishTime>05/18/2018 13:05:14</publishTime>
+    </File>
+    <File Include="Student/BulkSubjectAttendance.aspx">
+      <publishTime>08/26/2015 14:04:40</publishTime>
+    </File>
+    <File Include="Student/DiplomaRegistration.aspx">
+      <publishTime>05/18/2018 13:05:52</publishTime>
+    </File>
+    <File Include="Student/DiplomaRegistrationPrint.aspx">
+      <publishTime>05/18/2018 13:06:04</publishTime>
+    </File>
+    <File Include="Student/Fees.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/FeesHeadMaster.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/HostelFees.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/HostelFeesGeneration.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/LibraryFine.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/MBARegistration.aspx">
+      <publishTime>05/18/2018 13:07:08</publishTime>
+    </File>
+    <File Include="Student/MBARegistrationPrint.aspx">
+      <publishTime>05/18/2018 13:07:18</publishTime>
+    </File>
+    <File Include="Student/MTechRegistration.aspx">
+      <publishTime>05/18/2018 13:08:08</publishTime>
+    </File>
+    <File Include="Student/MTechRegistrationPrint.aspx">
+      <publishTime>05/18/2018 13:08:30</publishTime>
+    </File>
+    <File Include="Student/NewAdmissionReport.aspx">
+      <publishTime>10/09/2018 15:02:09</publishTime>
+    </File>
+    <File Include="Student/NonAICTERegistration.aspx">
+      <publishTime>05/29/2019 16:55:45</publishTime>
+    </File>
+    <File Include="Student/NonAICTERegistrationPrint.aspx">
+      <publishTime>02/25/2019 15:49:19</publishTime>
+    </File>
+    <File Include="Student/PopUpChangeStudentDetail.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/PopUpLibraryFineVoucher.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/PopUpStudentSubjectMappingUpdate.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/printFeesVoucher.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/SemFeesGeneration.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/StudentBillEntry.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/StudentCreditBillEntry.aspx">
+      <publishTime>08/26/2015 11:28:46</publishTime>
+    </File>
+    <File Include="Student/StudentDropout.aspx">
+      <publishTime>02/23/2018 16:20:52</publishTime>
+    </File>
+    <File Include="Student/StudentIDCard.aspx">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/10.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/13.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/14.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/15.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/29.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/6490.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/6491.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/6514.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/8.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/9.jpg">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/Female.JPG">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPhoto/Male.JPG">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentPromotion.aspx">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentSectionMapping.aspx">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/StudentSubjectMapping.aspx">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Student/SubjectMaster.aspx">
+      <publishTime>08/26/2015 14:39:56</publishTime>
+    </File>
+    <File Include="Student/TeacherSubjectMapping.aspx">
+      <publishTime>08/26/2015 14:03:36</publishTime>
+    </File>
+    <File Include="Student/UserBaseApprovedStudentList.aspx">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="StudentMaster.Master">
+      <publishTime>08/26/2015 11:31:22</publishTime>
+    </File>
+    <File Include="Styles/blue.css">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Styles/Control.css">
+      <publishTime>07/18/2016 15:14:24</publishTime>
+    </File>
+    <File Include="Styles/login-box.css">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Styles/Print.css">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Styles/reset.css">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="Styles/style.css">
+      <publishTime>08/26/2015 11:28:48</publishTime>
+    </File>
+    <File Include="SuperAdmin.Master">
+      <publishTime>08/26/2015 11:31:22</publishTime>
+    </File>
+    <File Include="Unauthorized.aspx">
+      <publishTime>08/26/2015 11:31:22</publishTime>
+    </File>
+    <File Include="UserControl/LeftNav.ascx">
+      <publishTime>05/22/2017 17:22:58</publishTime>
+    </File>
+    <File Include="UserControl/menu.ascx">
+      <publishTime>02/14/2019 15:54:49</publishTime>
+    </File>
+    <File Include="UserControl/Message.ascx">
+      <publishTime>08/26/2015 11:28:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/10/2019 13:09:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

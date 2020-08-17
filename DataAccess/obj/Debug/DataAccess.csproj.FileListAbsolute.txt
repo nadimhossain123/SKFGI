@@ -1,0 +1,121 @@
+E:\KUNAL\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+E:\KUNAL\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+E:\KUNAL\SKFGI\DataAccess\bin\Debug\Entity.dll
+E:\KUNAL\SKFGI\DataAccess\bin\Debug\Entity.pdb
+E:\KUNAL\SKFGI\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\KUNAL\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+E:\KUNAL\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\hi\Desktop\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\hi\Desktop\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\hi\Desktop\SKFGI\DataAccess\bin\Debug\Entity.dll
+C:\Users\hi\Desktop\SKFGI\DataAccess\bin\Debug\Entity.pdb
+C:\Users\hi\Desktop\SKFGI\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hi\Desktop\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\hi\Desktop\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\DataAccess\bin\Debug\Entity.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\DataAccess\bin\Debug\Entity.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\KUNAL\SKFJISuvojitNew\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\DataAccess\bin\Debug\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\DataAccess\bin\Debug\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\DataAccess\bin\Debug\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\DataAccess\bin\Debug\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\bin\Debug\Entity.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\bin\Debug\Entity.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\bin\Debug\Entity.dll
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\bin\Debug\Entity.pdb
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Debug\Entity.dll
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Debug\Entity.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Debug\Entity.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Debug\Entity.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\Entity.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\Entity.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\Entity.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\Entity.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\Entity.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Debug\Entity.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+E:\GIT Solutions\SKFGI\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+E:\GIT Solutions\SKFGI\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+E:\GIT Solutions\SKFGI\SKFGI\DataAccess\bin\Debug\Entity.dll
+E:\GIT Solutions\SKFGI\SKFGI\DataAccess\bin\Debug\Entity.pdb
+E:\GIT Solutions\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\GIT Solutions\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\GIT Solutions\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\GIT Solutions\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+E:\GIT Solutions\SKFGI\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+E:\LALTU\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+E:\LALTU\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+E:\LALTU\SKFGI\DataAccess\bin\Debug\Entity.dll
+E:\LALTU\SKFGI\DataAccess\bin\Debug\Entity.pdb
+E:\LALTU\SKFGI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\LALTU\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\LALTU\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\LALTU\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+E:\LALTU\SKFGI\DataAccess\obj\Debug\DataAccess.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\DataAccess\bin\Debug\DataAccess.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\DataAccess\bin\Debug\DataAccess.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\DataAccess\bin\Debug\Entity.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\DataAccess\bin\Debug\Entity.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\DataAccess\obj\Debug\DataAccess.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\DataAccess\obj\Debug\DataAccess.pdb

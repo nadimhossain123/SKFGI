@@ -1,0 +1,20 @@
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\Entity\bin\Release\Entity.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\Entity\bin\Release\Entity.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\Entity\obj\Release\Entity.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\Entity\obj\Release\Entity.pdb
+D:\Basir Projects World\SKFGI\SKFGI\Entity\bin\Release\Entity.dll
+D:\Basir Projects World\SKFGI\SKFGI\Entity\bin\Release\Entity.pdb
+D:\Basir Projects World\SKFGI\SKFGI\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+D:\Basir Projects World\SKFGI\SKFGI\Entity\obj\Release\Entity.dll
+D:\Basir Projects World\SKFGI\SKFGI\Entity\obj\Release\Entity.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\bin\Release\Entity.dll
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\bin\Release\Entity.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Release\Entity.dll
+D:\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Release\Entity.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\bin\Release\Entity.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\bin\Release\Entity.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Release\Entity.csprojAssemblyReference.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Release\Entity.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\Entity\obj\Release\Entity.pdb

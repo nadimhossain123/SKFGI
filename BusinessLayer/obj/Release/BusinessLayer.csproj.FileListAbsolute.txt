@@ -1,0 +1,66 @@
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Release\AjaxControlToolkit.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Release\DataAccess.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Release\Entity.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Release\DataAccess.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Release\Entity.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\obj\Release\BusinessLayer.pdb
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Release\AjaxControlToolkit.dll
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Release\DataAccess.dll
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Release\Entity.dll
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Release\DataAccess.pdb
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Release\Entity.pdb
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Release\BusinessLayer.pdb
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\bin\Release\AjaxControlToolkit.dll
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\bin\Release\DataAccess.dll
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\bin\Release\Entity.dll
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\bin\Release\DataAccess.pdb
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\bin\Release\Entity.pdb
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\Basir Projects World\SKFGI\New folder\SKFGI\BusinessLayer\obj\Release\BusinessLayer.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\AjaxControlToolkit.dll
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\DataAccess.dll
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\Entity.dll
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\DataAccess.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\Entity.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\BusinessLayer.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\BusinessLayer.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\AjaxControlToolkit.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\DataAccess.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\Entity.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\DataAccess.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Release\Entity.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Release\BusinessLayer.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Release\BusinessLayer.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Release\AjaxControlToolkit.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Release\DataAccess.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Release\Entity.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Release\DataAccess.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Release\Entity.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Release\BusinessLayer.pdb

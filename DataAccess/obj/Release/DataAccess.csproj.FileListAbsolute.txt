@@ -1,0 +1,48 @@
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\bin\Release\DataAccess.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\bin\Release\DataAccess.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\bin\Release\Entity.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\bin\Release\Entity.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\obj\Release\DataAccess.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\DataAccess\obj\Release\DataAccess.pdb
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\bin\Release\DataAccess.dll
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\bin\Release\DataAccess.pdb
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\bin\Release\Entity.dll
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\bin\Release\Entity.pdb
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Release\DataAccess.csprojAssemblyReference.cache
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Release\DataAccess.csproj.CopyComplete
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Release\DataAccess.dll
+D:\Basir Projects World\SKFGI\SKFGI\DataAccess\obj\Release\DataAccess.pdb
+D:\Basir Projects World\SKFGI\New folder\SKFGI\DataAccess\bin\Release\DataAccess.dll
+D:\Basir Projects World\SKFGI\New folder\SKFGI\DataAccess\bin\Release\DataAccess.pdb
+D:\Basir Projects World\SKFGI\New folder\SKFGI\DataAccess\bin\Release\Entity.dll
+D:\Basir Projects World\SKFGI\New folder\SKFGI\DataAccess\bin\Release\Entity.pdb
+D:\Basir Projects World\SKFGI\New folder\SKFGI\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\Basir Projects World\SKFGI\New folder\SKFGI\DataAccess\obj\Release\DataAccess.dll
+D:\Basir Projects World\SKFGI\New folder\SKFGI\DataAccess\obj\Release\DataAccess.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Release\DataAccess.dll
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Release\DataAccess.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Release\Entity.dll
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Release\Entity.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.csprojAssemblyReference.cache
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.csproj.CopyComplete
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.dll
+D:\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Release\DataAccess.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Release\DataAccess.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Release\Entity.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\bin\Release\Entity.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.csprojAssemblyReference.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\DataAccess\obj\Release\DataAccess.csproj.CopyComplete
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Release\DataAccess.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Release\DataAccess.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Release\Entity.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\bin\Release\Entity.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Release\DataAccess.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\DataAccess\obj\Release\DataAccess.pdb

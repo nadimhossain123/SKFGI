@@ -1,0 +1,153 @@
+E:\KUNAL\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\KUNAL\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\KUNAL\SKFGI\BusinessLayer\bin\Debug\AjaxControlToolkit.dll
+E:\KUNAL\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+E:\KUNAL\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+E:\KUNAL\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\KUNAL\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+E:\KUNAL\SKFGI\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\KUNAL\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\KUNAL\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\hi\Desktop\SKFGI\BusinessLayer\bin\Debug\AjaxControlToolkit.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\KUNAL\SKFJISuvojitNew\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Basir Projects World\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\GIT Solutions\SKFGI\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\LALTU\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\LALTU\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\LALTU\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+E:\LALTU\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+E:\LALTU\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+E:\LALTU\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+E:\LALTU\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\LALTU\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\LALTU\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\LALTU\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\LALTU\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\bin\Debug\DataAccess.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\bin\Debug\Entity.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\bin\Debug\DataAccess.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\bin\Debug\Entity.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\BusinessLayer\obj\Debug\BusinessLayer.pdb

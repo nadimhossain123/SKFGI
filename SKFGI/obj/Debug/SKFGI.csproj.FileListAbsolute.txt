@@ -1,0 +1,314 @@
+E:\KUNAL\SKFGI\SKFGI\obj\Debug\ResolveAssemblyReference.cache
+E:\KUNAL\SKFGI\SKFGI\bin\SKFGI.dll
+E:\KUNAL\SKFGI\SKFGI\bin\SKFGI.pdb
+E:\KUNAL\SKFGI\SKFGI\bin\AjaxControlToolkit.dll
+E:\KUNAL\SKFGI\SKFGI\bin\BusinessLayer.dll
+E:\KUNAL\SKFGI\SKFGI\bin\DataAccess.dll
+E:\KUNAL\SKFGI\SKFGI\bin\Entity.dll
+E:\KUNAL\SKFGI\SKFGI\bin\itextsharp.dll
+E:\KUNAL\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.dll
+E:\KUNAL\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\KUNAL\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+E:\KUNAL\SKFGI\SKFGI\bin\BusinessLayer.pdb
+E:\KUNAL\SKFGI\SKFGI\bin\DataAccess.pdb
+E:\KUNAL\SKFGI\SKFGI\bin\Entity.pdb
+E:\KUNAL\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+E:\KUNAL\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\SKFGI.dll
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\SKFGI.pdb
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\BusinessLayer.dll
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\DataAccess.dll
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\Entity.dll
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\BusinessLayer.pdb
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\DataAccess.pdb
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\Entity.pdb
+C:\Users\hi\Desktop\SKFGI\SKFGI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hi\Desktop\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+C:\Users\hi\Desktop\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\AjaxControlToolkit.dll
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\itextsharp.dll
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hi\Desktop\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\SKFGI.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\SKFGI.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\BusinessLayer.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\DataAccess.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\Entity.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\office.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\Microsoft.Vbe.Interop.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\BusinessLayer.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\DataAccess.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\Entity.pdb
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.xml
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\bin\office.xml
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\obj\Debug\SKFGI.csprojResolveAssemblyReference.cache
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+E:\KUNAL\SKFJISuvojitNew\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\SKFGI.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\SKFGI.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\BusinessLayer.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\DataAccess.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\office.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\Microsoft.Vbe.Interop.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\BusinessLayer.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\DataAccess.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.xml
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\bin\office.xml
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\obj\Debug\SKFGI.csprojResolveAssemblyReference.cache
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+E:\Rajib's Folder\SKFJISuvojitNew[16.07.2016]\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\SKFGI.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\SKFGI.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\BusinessLayer.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\DataAccess.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\Entity.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\office.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\Microsoft.Vbe.Interop.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\BusinessLayer.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\DataAccess.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\Entity.pdb
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.xml
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\bin\office.xml
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\obj\Debug\SKFGI.csprojResolveAssemblyReference.cache
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+E:\Rajib's Folder\SKFJISuvojitNew[15.05.2017]\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\SKFGI.dll.config
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\SKFGI.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\SKFGI.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\BusinessLayer.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\DataAccess.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\Entity.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\office.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\Microsoft.Vbe.Interop.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\stdole.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\BusinessLayer.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\DataAccess.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\Entity.pdb
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.xml
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\bin\office.xml
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\obj\Debug\SKFGI.csprojResolveAssemblyReference.cache
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+D:\Pritam FFT Projects\SKFGI-ERP\Source Code\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\SKFGI.dll.config
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\SKFGI.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\SKFGI.pdb
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\BusinessLayer.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\DataAccess.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\Entity.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.SqlEnum.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.Dmf.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\stdole.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\BusinessLayer.pdb
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\DataAccess.pdb
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\bin\Entity.pdb
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+D:\Basir Projects World\SKFGI\SKFGI\SKFGI\obj\Debug\SKFGI.csprojResolveAssemblyReference.cache
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\SKFGI.dll.config
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\SKFGI.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\SKFGI.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\BusinessLayer.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\DataAccess.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Entity.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.SqlEnum.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Dmf.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\stdole.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\BusinessLayer.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\DataAccess.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Entity.pdb
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csprojAssemblyReference.cache
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CoreCompileInputs.cache
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CopyComplete
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+D:\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\SKFGI.dll.config
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\SKFGI.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\SKFGI.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\BusinessLayer.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\DataAccess.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Entity.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\office.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.Vbe.Interop.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.SqlEnum.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Dmf.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\stdole.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\BusinessLayer.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\DataAccess.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Entity.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.xml
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\bin\office.xml
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csprojAssemblyReference.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CoreCompileInputs.cache
+E:\BASIR FFT PROJECTS\SKFGI_(30-01-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CopyComplete
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\SKFGI.dll.config
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\SKFGI.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\SKFGI.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\BusinessLayer.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\DataAccess.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Entity.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\office.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.Vbe.Interop.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.SqlEnum.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Dmf.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\stdole.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\BusinessLayer.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\DataAccess.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Entity.pdb
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.xml
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\office.xml
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csprojAssemblyReference.cache
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CoreCompileInputs.cache
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CopyComplete
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+E:\Sweta\SKFGI\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\SKFGI.dll.config
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\SKFGI.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\SKFGI.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\BusinessLayer.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\DataAccess.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Entity.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.SqlEnum.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Dmf.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\stdole.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\BusinessLayer.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\DataAccess.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Entity.pdb
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csprojResolveAssemblyReference.cache
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+E:\LOGICRACK PROJECTS\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\SKFGI.dll.config
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\SKFGI.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\SKFGI.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\BusinessLayer.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\DataAccess.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Entity.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.SqlEnum.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.Dmf.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\stdole.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\BusinessLayer.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\DataAccess.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\bin\Entity.pdb
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csprojAssemblyReference.cache
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CoreCompileInputs.cache
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CopyComplete
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+C:\Logicrack\SKFGI FINAL\SKFGI FINAL\SKFGI_(20-06-2019)\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\SKFGI.dll.config
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\SKFGI.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\SKFGI.pdb
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\BusinessLayer.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\DataAccess.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\Entity.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.SqlEnum.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.Dmf.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\stdole.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\BusinessLayer.pdb
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\DataAccess.pdb
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\bin\Entity.pdb
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\obj\Debug\SKFGI.csprojAssemblyReference.cache
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CoreCompileInputs.cache
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CopyComplete
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+E:\GIT Solutions\SKFGI\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+E:\LALTU\SKFGI\SKFGI\bin\SKFGI.dll.config
+E:\LALTU\SKFGI\SKFGI\bin\SKFGI.dll
+E:\LALTU\SKFGI\SKFGI\bin\SKFGI.pdb
+E:\LALTU\SKFGI\SKFGI\bin\BusinessLayer.dll
+E:\LALTU\SKFGI\SKFGI\bin\DataAccess.dll
+E:\LALTU\SKFGI\SKFGI\bin\Entity.dll
+E:\LALTU\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.dll
+E:\LALTU\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\LALTU\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+E:\LALTU\SKFGI\SKFGI\bin\office.dll
+E:\LALTU\SKFGI\SKFGI\bin\Microsoft.Vbe.Interop.dll
+E:\LALTU\SKFGI\SKFGI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\LALTU\SKFGI\SKFGI\bin\Microsoft.SqlServer.SqlEnum.dll
+E:\LALTU\SKFGI\SKFGI\bin\Microsoft.SqlServer.Dmf.dll
+E:\LALTU\SKFGI\SKFGI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\LALTU\SKFGI\SKFGI\bin\stdole.dll
+E:\LALTU\SKFGI\SKFGI\bin\BusinessLayer.pdb
+E:\LALTU\SKFGI\SKFGI\bin\DataAccess.pdb
+E:\LALTU\SKFGI\SKFGI\bin\Entity.pdb
+E:\LALTU\SKFGI\SKFGI\bin\Microsoft.Office.Interop.Excel.xml
+E:\LALTU\SKFGI\SKFGI\bin\office.xml
+E:\LALTU\SKFGI\SKFGI\obj\Debug\SKFGI.csprojAssemblyReference.cache
+E:\LALTU\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CoreCompileInputs.cache
+E:\LALTU\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CopyComplete
+E:\LALTU\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+E:\LALTU\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
+E:\LALTU\SKFGI\NEW\SKFGI\bin\SKFGI.dll.config
+E:\LALTU\SKFGI\NEW\SKFGI\bin\SKFGI.dll
+E:\LALTU\SKFGI\NEW\SKFGI\bin\SKFGI.pdb
+E:\LALTU\SKFGI\NEW\SKFGI\bin\BusinessLayer.dll
+E:\LALTU\SKFGI\NEW\SKFGI\bin\DataAccess.dll
+E:\LALTU\SKFGI\NEW\SKFGI\bin\Entity.dll
+E:\LALTU\SKFGI\NEW\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+E:\LALTU\SKFGI\NEW\SKFGI\bin\stdole.dll
+E:\LALTU\SKFGI\NEW\SKFGI\bin\BusinessLayer.pdb
+E:\LALTU\SKFGI\NEW\SKFGI\bin\DataAccess.pdb
+E:\LALTU\SKFGI\NEW\SKFGI\bin\Entity.pdb
+E:\LALTU\SKFGI\NEW\SKFGI\obj\Debug\SKFGI.csprojAssemblyReference.cache
+E:\LALTU\SKFGI\NEW\SKFGI\obj\Debug\SKFGI.csproj.CoreCompileInputs.cache
+E:\LALTU\SKFGI\NEW\SKFGI\obj\Debug\SKFGI.csproj.CopyComplete
+E:\LALTU\SKFGI\NEW\SKFGI\obj\Debug\SKFGI.dll
+E:\LALTU\SKFGI\NEW\SKFGI\obj\Debug\SKFGI.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\SKFGI.dll.config
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\SKFGI.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\SKFGI.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\BusinessLayer.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\DataAccess.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\Entity.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\Microsoft.SqlServer.Smo.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\Microsoft.SqlServer.SqlEnum.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\Microsoft.SqlServer.Dmf.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\stdole.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\BusinessLayer.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\DataAccess.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\bin\Entity.pdb
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\obj\Debug\SKFGI.csprojAssemblyReference.cache
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CoreCompileInputs.cache
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\obj\Debug\SKFGI.csproj.CopyComplete
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\obj\Debug\SKFGI.dll
+C:\Logicrack\Logicrack_Project\SKFGI_LATEST\SKFGI\SKFGI\obj\Debug\SKFGI.pdb
